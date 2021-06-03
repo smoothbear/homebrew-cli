@@ -1,6 +1,5 @@
-### Install
+### How to use this repository
 
 ```
-brew tap smoothbear/xmoji
-brew install xmoji
+brew tap smoothbear/cli
 ```
